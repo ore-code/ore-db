@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ED5kcLYC8aM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harms\\Documents\\GitHub\\ore-db\\src\\OreDB\\OreDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harms\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

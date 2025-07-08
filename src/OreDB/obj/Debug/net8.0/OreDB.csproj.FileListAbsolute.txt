@@ -1,0 +1,12 @@
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\bin\Debug\net8.0\OreDB.deps.json
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\bin\Debug\net8.0\OreDB.dll
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\bin\Debug\net8.0\OreDB.pdb
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.csproj.AssemblyReference.cache
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.AssemblyInfoInputs.cache
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.AssemblyInfo.cs
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.csproj.CoreCompileInputs.cache
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.dll
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\refint\OreDB.dll
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.pdb
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\ref\OreDB.dll
