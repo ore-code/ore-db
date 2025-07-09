@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\harms\\Documents\\GitHub\\ore-db\\src\\OreDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47237302-961B-4FFC-8422-E8AA3FFC5743}|OreDB.csproj|c:\\users\\harms\\documents\\github\\ore-db\\src\\oredb\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47237302-961B-4FFC-8422-E8AA3FFC5743}|OreDB.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47237302-961B-4FFC-8422-E8AA3FFC5743}|OreDB.csproj|c:\\users\\harms\\documents\\github\\ore-db\\src\\oredb\\oredb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{47237302-961B-4FFC-8422-E8AA3FFC5743}|OreDB.csproj|solutionrelative:oredb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OreDB",
+              "DocumentIndex": 0,
+              "Title": "OreDB.csproj",
               "DocumentMoniker": "C:\\Users\\harms\\Documents\\GitHub\\ore-db\\src\\OreDB\\OreDB.csproj",
               "RelativeDocumentMoniker": "OreDB.csproj",
               "ToolTip": "C:\\Users\\harms\\Documents\\GitHub\\ore-db\\src\\OreDB\\OreDB.csproj",
               "RelativeToolTip": "OreDB.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-08T18:57:46.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\harms\\Documents\\GitHub\\ore-db\\src\\OreDB\\Database.cs",
-              "RelativeDocumentMoniker": "Database.cs",
-              "ToolTip": "C:\\Users\\harms\\Documents\\GitHub\\ore-db\\src\\OreDB\\Database.cs",
-              "RelativeToolTip": "Database.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAQwFkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:56:59.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:57:46.687Z"
             }
           ]
         }

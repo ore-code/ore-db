@@ -326,10 +326,10 @@ namespace OreDB
          * 
          * using (var _db = new Database("database.json"))
          * {
-         *     var _data = _db.Find("f4411f8f1e824610a98f30d852783d2b");
+         *     var _data = _db.FindByID("f4411f8f1e824610a98f30d852783d2b");
          * }
          */
-        public JObject? Find(string id)
+        public JObject? FindByID(string id)
         {
             //
             // Lock the list to ensure data integrity when reading it.

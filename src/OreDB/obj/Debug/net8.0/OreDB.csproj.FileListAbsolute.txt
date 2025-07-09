@@ -10,3 +10,4 @@ C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.dll
 C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\refint\OreDB.dll
 C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.pdb
 C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\ref\OreDB.dll
+C:\Users\harms\Documents\GitHub\ore-db\src\OreDB\obj\Debug\net8.0\OreDB.sourcelink.json
